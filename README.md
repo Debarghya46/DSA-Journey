@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debarghya46/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Debarghya46/DSA-Journey/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/Debarghya46/DSA-Journey/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Debarghya46/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Debarghya46/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Debarghya46/DSA-Journey/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debarghya46/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String Matching
 |  |
