@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Debarghya46/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Debarghya46/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debarghya46/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
