@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Debarghya46/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Debarghya46/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Debarghya46/DSA-Journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Debarghya46/DSA-Journey/tree/master/0189-rotate-array) |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debarghya46/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debarghya46/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Quicksort
 |  |
@@ -144,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -160,5 +166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
