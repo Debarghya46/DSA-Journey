@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Debarghya46/DSA-Journey/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Debarghya46/DSA-Journey/tree/master/0189-rotate-array) |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Debarghya46/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Debarghya46/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 ## Quicksort
 |  |
 | ------- |
@@ -139,4 +141,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Debarghya46/DSA-Journey/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
