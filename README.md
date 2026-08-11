@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debarghya46/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2678-number-of-senior-citizens](https://github.com/Debarghya46/DSA-Journey/tree/master/2678-number-of-senior-citizens) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Debarghya46/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Debarghya46/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Debarghya46/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Debarghya46/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
