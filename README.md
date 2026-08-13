@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Debarghya46/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Debarghya46/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Debarghya46/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Debarghya46/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Debarghya46/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Debarghya46/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Debarghya46/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Counting
