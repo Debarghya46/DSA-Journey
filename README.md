@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debarghya46/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debarghya46/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/Debarghya46/DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Debarghya46/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Debarghya46/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2129-capitalize-the-title](https://github.com/Debarghya46/DSA-Journey/tree/master/2129-capitalize-the-title) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/Debarghya46/DSA-Journey/tree/master/2678-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
