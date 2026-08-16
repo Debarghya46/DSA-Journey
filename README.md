@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debarghya46/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Debarghya46/DSA-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/Debarghya46/DSA-Journey/tree/master/2678-number-of-senior-citizens) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,16 +178,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -195,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
 | ------- |
@@ -207,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
