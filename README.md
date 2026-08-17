@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Debarghya46/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Debarghya46/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
 ## Quicksort
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
