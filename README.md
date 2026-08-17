@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Debarghya46/DSA-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Debarghya46/DSA-Journey/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Debarghya46/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Debarghya46/DSA-Journey/tree/master/0486-predict-the-winner) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Debarghya46/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Debarghya46/DSA-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Debarghya46/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Simulation
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Debarghya46/DSA-Journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/0229-majority-element-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Debarghya46/DSA-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Debarghya46/DSA-Journey/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
