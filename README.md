@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Debarghya46/DSA-Journey/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Debarghya46/DSA-Journey/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2129-capitalize-the-title](https://github.com/Debarghya46/DSA-Journey/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Debarghya46/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Debarghya46/DSA-Journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Debarghya46/DSA-Journey/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
