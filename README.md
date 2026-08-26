@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Debarghya46/DSA-Journey/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Debarghya46/DSA-Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2678-number-of-senior-citizens](https://github.com/Debarghya46/DSA-Journey/tree/master/2678-number-of-senior-citizens) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Debarghya46/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Debarghya46/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Debarghya46/DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Debarghya46/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Debarghya46/DSA-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
