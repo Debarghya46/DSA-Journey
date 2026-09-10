@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debarghya46/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Debarghya46/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Debarghya46/DSA-Journey/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Debarghya46/DSA-Journey/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Debarghya46/DSA-Journey/tree/master/0890-find-and-replace-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Debarghya46/DSA-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Debarghya46/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Debarghya46/DSA-Journey/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
