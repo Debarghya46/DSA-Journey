@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Debarghya46/DSA-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Debarghya46/DSA-Journey/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Debarghya46/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Debarghya46/DSA-Journey/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Debarghya46/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Counting
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Debarghya46/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Debarghya46/DSA-Journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Debarghya46/DSA-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Debarghya46/DSA-Journey/tree/master/2029-stone-game-ix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Debarghya46/DSA-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Debarghya46/DSA-Journey/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Debarghya46/DSA-Journey/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Debarghya46/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Debarghya46/DSA-Journey/tree/master/1872-stone-game-viii) |
 ## Quicksort
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Debarghya46/DSA-Journey/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Debarghya46/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
